@@ -1,4 +1,4 @@
-/* GENERAL STYLES */
+/* OVERALL STYLE */
 
 * {
     box-sizing: border-box;
@@ -45,7 +45,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* TEXT STYLES */
+/* TEXT STYLE */
 
 a {
     color: #ffffff;
@@ -56,7 +56,7 @@ p {
     font-size: 16px;
 }
 
-/* HERO DIV WITH BACKGROUND IMAGE */
+/* HERO DIV WITH IMAGE */
 
 .hero {
     height: 800px;
@@ -67,7 +67,7 @@ p {
     background-position: center;
 }
 
-/* FLOATS */
+/* FLOATERS */
 
 .float-left {
     float: left;
@@ -116,7 +116,7 @@ main {
     max-width: 150px;
 }
 
-/* SERVICES SECTIONS */
+/* SERVICES */
 
 .service {
     margin-bottom: 20px;
